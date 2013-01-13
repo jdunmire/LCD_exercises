@@ -3,6 +3,9 @@
  *
  * Verify setup for use with gLCD-Library by drawing squares at
  * different distances from the edge of the display.
+ *
+ * Requires gLCD library from https://github.com/TCWORLD/gLCD-Library
+ * Tested with gLCD version 3.4
  */
 #include <gLCD.h>
 
