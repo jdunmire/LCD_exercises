@@ -14,5 +14,8 @@ LED_Blink:
 SwitchTest:
     Sketch to verify switch connections.
 
+LCD_Exercises.fzz:
+    Breadboard and schematic diagrams. View or edit with Fritizing
+    (http://fritzing.org/)
 
 See the LICENSE file for copyright and license information.
