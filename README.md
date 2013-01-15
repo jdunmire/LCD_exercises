@@ -2,9 +2,9 @@ LCD Exercises
 =============
 This is code for a set of exercises (coming soon) at
 [RockingDLabs](http://rockingdlabs.dunmire.org) that demonstrate using
-the Sparkfun Color LCD Breakout board with an Arduino UNO.
+the SparkFun Color LCD Breakout board with an Arduino UNO.
 
-See the LICENSE file for copyright and license information.
+See the `LICENSE` file for copyright and license information.
 
 
 Components
@@ -43,6 +43,6 @@ and use `git` to track your own changes by cloning:
     $ cd ~/sketchbook/
     $ git clone https://github.com/jdunmire/LCD_exercises
 
-* Start the Arduino IDE and you should fine `LCD_Exercises` in the
+* Start the Arduino IDE and you should find `LCD_Exercises` in the
   `Open` menu.
 
