@@ -9,16 +9,18 @@ See the LICENSE file for copyright and license information.
 
 Components
 --------
-* gLCD\_test:  Sketch to test device settings for for gLCD and align the
-  display.
+`gLCD_test`
+  Sketch to test device settings for for gLCD and align the display.
 
 * LED\_Blink:
-  Sketch to verify LED connections.
+    Sketch to verify LED connections.
     
 * SwitchTest:
-  Sketch to verify switch connections.
+
+Sketch to verify switch connections.
 
 * `LCD_Exercises.fzz`:
+
   Breadboard and schematic diagrams. View or edit with Fritizing from <http://fritzing.org/>
 
 
