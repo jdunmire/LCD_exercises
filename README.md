@@ -9,13 +9,17 @@ See the LICENSE file for copyright and license information.
 
 Components
 --------
-* gLCD\_test: Sketch to test device settings for for gLCD and align the display.
+gLCD\_test:
+  Sketch to test device settings for for gLCD and align the display.
 
-* LED\_Blink: Sketch to verify LED connections.
+LED\_Blink:
+  Sketch to verify LED connections.
     
-* SwitchTest: Sketch to verify switch connections.
+SwitchTest:
+  Sketch to verify switch connections.
 
-* LCD\_Exercises.fzz: Breadboard and schematic diagrams. View or edit with Fritizing from <http://fritzing.org/>
+LCD\_Exercises.fzz:
+  Breadboard and schematic diagrams. View or edit with Fritizing from <http://fritzing.org/>
 
 
 Installation
@@ -26,19 +30,19 @@ Installation
   latest version, but you may prefer one of the
   [tagged](https://github.com/jdunmire/LCD_exercises/tags) versions.
 
-* Unpack the zip file into your sketchbook directory (~/sketchbook/ on
+* Unpack the zip file into your sketchbook directory (`~/sketchbook/` on
   Linux)
 
-* Start the Arduino IDE and you should find `LCD\_Exercises-<version>`
+* Start the Arduino IDE and you should find `LCD_Exercises-<version>`
   in the `Open` menu.
 
 ###Option 2: Git (Recommended)
-Follow this [GitHub](https://github.com/jdunmire/LCD_exercises)
-repository and track your own changes by creating a `git` clone.
+Follow this [GitHub repository](https://github.com/jdunmire/LCD_exercises)
+and use 'git' to track your own changes by cloning:
 
     $ cd ~/sketchbook/
     $ git clone https://github.com/jdunmire/LCD_exercises
 
-* Start the Arduino IDE and you should fine `LCD\_Exercises` in the
-  'Open' menu.
+* Start the Arduino IDE and you should fine `LCD_Exercises` in the
+  `Open` menu.
 
