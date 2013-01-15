@@ -38,7 +38,7 @@ Installation
 
 ###Option 2: Git (Recommended)
 Follow this [GitHub repository](https://github.com/jdunmire/LCD_exercises)
-and use 'git' to track your own changes by cloning:
+and use `git` to track your own changes by cloning:
 
     $ cd ~/sketchbook/
     $ git clone https://github.com/jdunmire/LCD_exercises
