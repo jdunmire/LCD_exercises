@@ -9,16 +9,16 @@ See the LICENSE file for copyright and license information.
 
 Components
 --------
-gLCD\_test:
-  Sketch to test device settings for for gLCD and align the display.
+* gLCD\_test:  Sketch to test device settings for for gLCD and align the
+  display.
 
-LED\_Blink:
+* LED\_Blink:
   Sketch to verify LED connections.
     
-SwitchTest:
+* SwitchTest:
   Sketch to verify switch connections.
 
-LCD\_Exercises.fzz:
+* `LCD_Exercises.fzz`:
   Breadboard and schematic diagrams. View or edit with Fritizing from <http://fritzing.org/>
 
 
@@ -31,7 +31,7 @@ Installation
   [tagged](https://github.com/jdunmire/LCD_exercises/tags) versions.
 
 * Unpack the zip file into your sketchbook directory (`~/sketchbook/` on
-  Linux)
+  Linux).
 
 * Start the Arduino IDE and you should find `LCD_Exercises-<version>`
   in the `Open` menu.
