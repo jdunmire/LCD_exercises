@@ -12,16 +12,14 @@ Components
 `gLCD_test`
   Sketch to test device settings for for gLCD and align the display.
 
-* LED\_Blink:
-    Sketch to verify LED connections.
+`LED_Blink`
+  Sketch to verify LED connections.
     
-* SwitchTest:
+`SwitchTest`
+    Sketch to verify switch connections.
 
-Sketch to verify switch connections.
-
-* `LCD_Exercises.fzz`:
-
-  Breadboard and schematic diagrams. View or edit with Fritizing from <http://fritzing.org/>
+`LCD_Exercises.fzz`
+    Breadboard and schematic diagrams. View or edit with Fritizing from <http://fritzing.org/>
 
 
 Installation
